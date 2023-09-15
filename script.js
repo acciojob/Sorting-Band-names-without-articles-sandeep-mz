@@ -6,7 +6,7 @@ function removeArticles(name) {
 }
 
 // Array of band names
-let bandNames = ['The Rolling Stones', 'Led', 'hello', 'Pink', 'XYZ'];
+let bandNames = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal']
 
 // Remove articles and sort the band names
 let sortedBandNames = bandNames.map(removeArticles).sort();
